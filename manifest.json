@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.11",
-  "downloadUrl": "https://github.com/mustafa-shah-tech/labtech-pro-releases/releases/download/v1.0.11/LabTech-Pro-v1.0.11.zip",
-  "releaseNotes": "UI improvement: Added a clear visual notification when the software is already up-to-date. Fixed update checking cache.",
+  "latestVersion": "1.0.12",
+  "downloadUrl": "https://github.com/mustafa-shah-tech/labtech-pro-releases/releases/download/v1.0.12/LabTech-Pro-v1.0.12.zip",
+  "releaseNotes": "Bug Fix: Restored the missing toast notification function to prevent UI crashes.",
   "mandatory": false
 }
