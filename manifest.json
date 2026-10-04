@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.8",
-  "downloadUrl": "https://github.com/mustafa-shah-tech/labtech-pro-releases/releases/download/v1.0.8/LabTech-Pro-v1.0.8.zip",
-  "releaseNotes": "Auto-open browser on startup for a seamless experience.",
+  "latestVersion": "1.0.9",
+  "downloadUrl": "https://github.com/mustafa-shah-tech/labtech-pro-releases/releases/download/v1.0.9/LabTech-Pro-v1.0.9.zip",
+  "releaseNotes": "Critical fix: Resolved an issue where licenses would fail to validate on restart.",
   "mandatory": false
 }
