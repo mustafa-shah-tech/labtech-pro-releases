@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.1",
-  "downloadUrl": "https://github.com/mustafa-shah-tech/labtech-pro-releases/releases/download/v1.0.1/LabTech-Pro-v1.0.1.zip",
-  "releaseNotes": "Bugfixes for Dashboard and About page layouts.",
+  "latestVersion": "1.0.6",
+  "downloadUrl": "https://github.com/mustafa-shah-tech/labtech-pro-releases/releases/download/v1.0.6/LabTech-Pro-v1.0.6.zip",
+  "releaseNotes": "Removed old customer branding from default settings. Fixed case-sensitivity bug on Activation screen.",
   "mandatory": false
 }
