@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.9",
-  "downloadUrl": "https://github.com/mustafa-shah-tech/labtech-pro-releases/releases/download/v1.0.9/LabTech-Pro-v1.0.9.zip",
-  "releaseNotes": "Critical fix: Resolved an issue where licenses would fail to validate on restart.",
+  "latestVersion": "1.0.10",
+  "downloadUrl": "https://github.com/mustafa-shah-tech/labtech-pro-releases/releases/download/v1.0.10/LabTech-Pro-v1.0.10.zip",
+  "releaseNotes": "UI improvement: Added a clear visual notification when the software is already up-to-date.",
   "mandatory": false
 }
